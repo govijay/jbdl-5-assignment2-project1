@@ -1,4 +1,4 @@
-## JBDL-5 Project 2
+## JBDL-5 Assignment 2 - Project 1 (Spring Boot with RDBMS DB)
   
   Project to demostrate Spring boot application's
   
